@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.env
+.DS_Store
+# Datasets are never committed
+data/
+train/
+test1/
+train80/
